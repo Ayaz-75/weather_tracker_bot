@@ -67,33 +67,3 @@ if weather_id > 700:
 if will_not_rain:
     print("No rain tommorrow!")
     
-    
-
-
-
-
-
-
-# fb_site = 'https://www.facebook.com/'
-
-# driver.get(fb_site)
-# time.sleep(3)
-
-
-# time.sleep(2)
-# email_entry = driver.find_element(By.XPATH, '//*[@id="email"]')
-# email_entry.send_keys("hisherhim2022@gmail.com")
-# time.sleep(2)
-# password_entry = driver.find_element(By.XPATH, '//*[@id="pass"]')
-# password_entry.send_keys("Hajoo18cs75")
-# password_entry.send_keys(Keys.ENTER)
-
-# post_entry = driver.find_element(By.CLASS_NAME, 'xuxw1ft')
-# # print(post_entry.text)
-# driver.execute_script("arguments[0].click();", post_entry)
-# post_entry.click()
-
-# driver.quit()
-
-
-# //*[@id="mount_0_0_88"]/div/div[1]/div/div[2]/div[5]/div[1]/div[3]/div[2]/span/div
